@@ -1,7 +1,6 @@
 # ============================================================
 # Programa: Operaciones con registros
 # Version para 5-stage sin hazard detection
-# Se agregan NOPs para evitar riesgos
 # ============================================================
 
 .text
